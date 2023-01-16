@@ -32,13 +32,13 @@ const Service = () => {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">HTML</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>
@@ -54,13 +54,13 @@ const Service = () => {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">CSS</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>
@@ -77,13 +77,13 @@ const Service = () => {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">React Js</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>
@@ -99,13 +99,13 @@ const Service = () => {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">Javascript</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>
@@ -122,13 +122,13 @@ const Service = () => {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">PHP</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>
@@ -144,13 +144,13 @@ const Service = () => {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">Adobe Photoshop</h1>
-                <p className="p service__text p__color">
+                {/* <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
                 <p className="p service__text p__color">
                   tall grass by the stream as I lie
                 </p>
-                <p className="p service__text p__color">close to the earth.</p>
+                <p className="p service__text p__color">close to the earth.</p> */}
               </div>
             </div>
           </div>

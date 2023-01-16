@@ -21,9 +21,6 @@ const About = () => {
             <p className="about__text p__color">
              John Nikko Fulloso Boloron
             </p>
-            <p className="about__text p__color">
-             BSIT
-            </p>
             <div class="col-lg-6">
               <ul>
                 <li><strong>Birthday:</strong> <span>25 April 1996</span></li>
@@ -52,7 +49,7 @@ const About = () => {
            </p>
         */}
             <div className="about__button d__flex align__items__center">
-              <a href="#">
+              <a href="Boloron,John Nikko.pdf" download="Boloron,John Nikko.pdf">
                 <button className="about btn pointer">Download Cv</button>
               </a>
               <a href="#">
