@@ -2,6 +2,7 @@
   "name": "myrportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Nikko042596.github.io/myportfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
