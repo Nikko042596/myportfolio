@@ -30,7 +30,7 @@ const Project = () => {
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">Vape Shop</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
+                     {/* <h4 className="project__text">Getting tickets to the big show</h4> */}
                      <a href="https://vapingshop15.netlify.app" className="project__btn">View Details</a>
                      </div>
                  </div>
@@ -47,7 +47,7 @@ const Project = () => {
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">Iskolab</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
+                     {/* <h4 className="project__text">Getting tickets to the big show</h4> */}
                      <a href="https://iskolab.netlify.app/index.html" className="project__btn">View Details</a>
                      </div>
                  </div>
@@ -64,7 +64,7 @@ const Project = () => {
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">GoToda</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
+                     {/* <h4 className="project__text">Getting tickets to the big show</h4> */}
                      <a href="https://taloned-cape.000webhostapp.com/index.php" className="project__btn">View Details</a>
                      </div>
                  </div>
