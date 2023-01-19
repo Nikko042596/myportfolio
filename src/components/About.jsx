@@ -19,7 +19,7 @@ const About = () => {
           <h1 className="about__heading">About Me</h1>
           <div className="about__meta">
             <p className="about__text p__color">
-             John Nikko Fulloso Boloron
+            “I am a positive, enthusiastic and competent Full-stack Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role."
             </p>
             <div class="col-lg-6">
               <ul>

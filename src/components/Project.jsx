@@ -1,8 +1,8 @@
 import React from 'react'
 import "./css/Project.css"
-import Project1 from "./images/proj1.png";
-import Project2 from "./images/proj2.png";
-import Project3 from "./images/proj3.png";
+import Project1 from "./images/proj1.PNG";
+import Project2 from "./images/proj2.PNG";
+import Project3 from "./images/proj3.PNG";
 import Project4 from "./images/portfolio-4.jpg";
 
 const Project = () => {
@@ -29,9 +29,9 @@ const Project = () => {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
+                     <h5 className="project__text">Vape Shop</h5>
                      <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <a href="https://vapingshop15.netlify.app" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
@@ -46,9 +46,9 @@ const Project = () => {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
+                     <h5 className="project__text">Iskolab</h5>
                      <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <a href="https://iskolab.netlify.app/index.html" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
@@ -63,15 +63,15 @@ const Project = () => {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
+                     <h5 className="project__text">GoToda</h5>
                      <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <a href="https://taloned-cape.000webhostapp.com/index.php" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
 
 
-             <div className="col__3">
+             {/* <div className="col__3">
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
@@ -119,7 +119,7 @@ const Project = () => {
                      <a href="#" className="project__btn">View Details</a>
                      </div>
                  </div>
-             </div>
+             </div> */}
              
              <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
              <button className="view__more pointer btn">View more</button>
